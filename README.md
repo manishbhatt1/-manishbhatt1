@@ -22,7 +22,7 @@ skills = {
 
 ## Projects I've built
 
-**[🌊 Nepal Disaster Predictor](https://github.com/manishbhatt1/Nepal-Disaster-Predictor)** ← *most significant*
+**[🌊 Nepal Disaster Predictor](https://github.com/manishbhatt1/Nepal-Disaster-Predictor)** ← *most significant* [🚀 Live Demo] (https://nepal-disaster-predictor.streamlit.app/)
 
 Flood and landslide risk predictor built specifically for Nepal — trained on 37 years of historical disaster data across all 77 districts. What makes it different: it pulls live weather data from the OpenMeteo API automatically, so there's no manual input needed. Built a full Streamlit app on top of it so anyone can actually use it.
 
