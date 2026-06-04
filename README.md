@@ -1,6 +1,6 @@
 # Hey, I'm Manish 👋
 
-I'm a BIT student at Itahari International College, slowly but seriously working my way into the world of AI and machine learning. Not the kind who just watches tutorials — I actually build things, break them, and figure out why.
+I'm a BIT student at Itahari International College, slowly but seriously working my way into the world of AI and machine learning. I actually build things, break them, and figure out why.
 
 Right now I'm focused on getting better at ML fundamentals, working on projects that feel meaningful (especially ones relevant to Nepal), and landing my first internship where I can learn from people who've been doing this longer than me.
 
